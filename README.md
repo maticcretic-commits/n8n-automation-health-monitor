@@ -112,3 +112,9 @@ data/sample_executions.json   # 19 mock n8n executions (6 failures, 4 workflows)
 tests/test_monitor.py         # offline pytest suite
 .env.example                  # env vars for a live n8n instance
 ```
+
+## Support My Work
+
+If you find this project useful, consider supporting my work with a Bitcoin donation:
+
+`BC1Q6Q75K8ZJXVW7W02LMDPRPY6XX6QK4LZZ2RMVAY`
