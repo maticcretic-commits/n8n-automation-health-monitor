@@ -1,0 +1,5 @@
+# Runtime code uses the Python 3.9+ standard library only
+# (urllib, json, datetime, argparse, os, sys, collections).
+#
+# Test-only dependency — install with:  pip install -r requirements.txt
+pytest>=7
