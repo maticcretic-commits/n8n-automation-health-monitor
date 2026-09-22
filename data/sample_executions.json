@@ -1,0 +1,272 @@
+[
+  {
+    "id": "101",
+    "finished": true,
+    "mode": "webhook",
+    "status": "error",
+    "startedAt": "2026-09-23T05:00:00Z",
+    "stoppedAt": "2026-09-23T05:01:00Z",
+    "workflowData": {
+      "id": "wf-412",
+      "name": "Lead capture to CRM"
+    },
+    "data": {
+      "resultData": {
+        "error": {
+          "message": "Request failed with status code 429: rate limit exceeded"
+        }
+      }
+    }
+  },
+  {
+    "id": "102",
+    "finished": true,
+    "mode": "webhook",
+    "status": "error",
+    "startedAt": "2026-09-23T03:00:00Z",
+    "stoppedAt": "2026-09-23T03:01:00Z",
+    "workflowData": {
+      "id": "wf-412",
+      "name": "Lead capture to CRM"
+    },
+    "data": {
+      "resultData": {
+        "error": {
+          "message": "Request failed with status code 429: rate limit exceeded"
+        }
+      }
+    }
+  },
+  {
+    "id": "103",
+    "finished": true,
+    "mode": "webhook",
+    "status": "error",
+    "startedAt": "2026-09-22T22:00:00Z",
+    "stoppedAt": "2026-09-22T22:01:00Z",
+    "workflowData": {
+      "id": "wf-412",
+      "name": "Lead capture to CRM"
+    },
+    "data": {
+      "resultData": {
+        "error": {
+          "message": "ENOTFOUND: could not resolve crm.example.com"
+        }
+      }
+    }
+  },
+  {
+    "id": "104",
+    "finished": true,
+    "mode": "webhook",
+    "status": "error",
+    "startedAt": "2026-09-22T10:00:00Z",
+    "stoppedAt": "2026-09-22T10:01:00Z",
+    "workflowData": {
+      "id": "wf-428",
+      "name": "Social auto-poster"
+    },
+    "data": {
+      "resultData": {
+        "error": {
+          "message": "HTTP 401 Unauthorized from social API (expired token)"
+        }
+      }
+    }
+  },
+  {
+    "id": "105",
+    "finished": true,
+    "mode": "webhook",
+    "status": "failed",
+    "startedAt": "2026-09-22T00:00:00Z",
+    "stoppedAt": "2026-09-22T00:01:00Z",
+    "workflowData": {
+      "id": "wf-693",
+      "name": "Gmail triage to Slack"
+    },
+    "data": {
+      "resultData": {
+        "error": {
+          "message": "Workflow execution timed out after 120 seconds"
+        }
+      }
+    }
+  },
+  {
+    "id": "106",
+    "finished": true,
+    "mode": "webhook",
+    "status": "error",
+    "startedAt": "2026-09-21T09:00:00Z",
+    "stoppedAt": "2026-09-21T09:01:00Z",
+    "workflowData": {
+      "id": "wf-820",
+      "name": "AI FAQ webhook responder"
+    },
+    "data": {
+      "resultData": {
+        "error": {
+          "message": "Credentials for 'OpenAI' are not set"
+        }
+      }
+    }
+  },
+  {
+    "id": "201",
+    "finished": true,
+    "mode": "webhook",
+    "status": "success",
+    "startedAt": "2026-09-23T05:30:00Z",
+    "stoppedAt": "2026-09-23T05:31:00Z",
+    "workflowData": {
+      "id": "wf-412",
+      "name": "Lead capture to CRM"
+    }
+  },
+  {
+    "id": "202",
+    "finished": true,
+    "mode": "webhook",
+    "status": "success",
+    "startedAt": "2026-09-23T04:00:00Z",
+    "stoppedAt": "2026-09-23T04:01:00Z",
+    "workflowData": {
+      "id": "wf-412",
+      "name": "Lead capture to CRM"
+    }
+  },
+  {
+    "id": "203",
+    "finished": true,
+    "mode": "webhook",
+    "status": "success",
+    "startedAt": "2026-09-23T01:00:00Z",
+    "stoppedAt": "2026-09-23T01:01:00Z",
+    "workflowData": {
+      "id": "wf-412",
+      "name": "Lead capture to CRM"
+    }
+  },
+  {
+    "id": "204",
+    "finished": true,
+    "mode": "webhook",
+    "status": "success",
+    "startedAt": "2026-09-22T18:00:00Z",
+    "stoppedAt": "2026-09-22T18:01:00Z",
+    "workflowData": {
+      "id": "wf-412",
+      "name": "Lead capture to CRM"
+    }
+  },
+  {
+    "id": "205",
+    "finished": true,
+    "mode": "webhook",
+    "status": "success",
+    "startedAt": "2026-09-22T04:00:00Z",
+    "stoppedAt": "2026-09-22T04:01:00Z",
+    "workflowData": {
+      "id": "wf-412",
+      "name": "Lead capture to CRM"
+    }
+  },
+  {
+    "id": "206",
+    "finished": true,
+    "mode": "webhook",
+    "status": "success",
+    "startedAt": "2026-09-23T02:00:00Z",
+    "stoppedAt": "2026-09-23T02:01:00Z",
+    "workflowData": {
+      "id": "wf-428",
+      "name": "Social auto-poster"
+    }
+  },
+  {
+    "id": "207",
+    "finished": true,
+    "mode": "webhook",
+    "status": "success",
+    "startedAt": "2026-09-22T02:00:00Z",
+    "stoppedAt": "2026-09-22T02:01:00Z",
+    "workflowData": {
+      "id": "wf-428",
+      "name": "Social auto-poster"
+    }
+  },
+  {
+    "id": "208",
+    "finished": true,
+    "mode": "webhook",
+    "status": "success",
+    "startedAt": "2026-09-23T00:00:00Z",
+    "stoppedAt": "2026-09-23T00:01:00Z",
+    "workflowData": {
+      "id": "wf-693",
+      "name": "Gmail triage to Slack"
+    }
+  },
+  {
+    "id": "209",
+    "finished": true,
+    "mode": "webhook",
+    "status": "success",
+    "startedAt": "2026-09-22T16:00:00Z",
+    "stoppedAt": "2026-09-22T16:01:00Z",
+    "workflowData": {
+      "id": "wf-693",
+      "name": "Gmail triage to Slack"
+    }
+  },
+  {
+    "id": "210",
+    "finished": true,
+    "mode": "webhook",
+    "status": "success",
+    "startedAt": "2026-09-21T14:00:00Z",
+    "stoppedAt": "2026-09-21T14:01:00Z",
+    "workflowData": {
+      "id": "wf-693",
+      "name": "Gmail triage to Slack"
+    }
+  },
+  {
+    "id": "211",
+    "finished": true,
+    "mode": "webhook",
+    "status": "success",
+    "startedAt": "2026-09-23T04:00:00Z",
+    "stoppedAt": "2026-09-23T04:01:00Z",
+    "workflowData": {
+      "id": "wf-820",
+      "name": "AI FAQ webhook responder"
+    }
+  },
+  {
+    "id": "212",
+    "finished": true,
+    "mode": "webhook",
+    "status": "success",
+    "startedAt": "2026-09-22T20:00:00Z",
+    "stoppedAt": "2026-09-22T20:01:00Z",
+    "workflowData": {
+      "id": "wf-820",
+      "name": "AI FAQ webhook responder"
+    }
+  },
+  {
+    "id": "213",
+    "finished": true,
+    "mode": "webhook",
+    "status": "success",
+    "startedAt": "2026-09-21T04:00:00Z",
+    "stoppedAt": "2026-09-21T04:01:00Z",
+    "workflowData": {
+      "id": "wf-820",
+      "name": "AI FAQ webhook responder"
+    }
+  }
+]
