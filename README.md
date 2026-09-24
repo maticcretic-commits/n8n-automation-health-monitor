@@ -1,5 +1,10 @@
 # n8n Automation Health Monitor
 
+[![GitHub stars](https://img.shields.io/github/stars/maticcretic-commits/n8n-automation-health-monitor?style=social)](https://github.com/maticcretic-commits/n8n-automation-health-monitor/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/maticcretic-commits/n8n-automation-health-monitor)](https://github.com/maticcretic-commits/n8n-automation-health-monitor/commits/main)
+[![Cost: Free](https://img.shields.io/badge/cost-%E2%82%B90-brightgreen)](https://github.com/maticcretic-commits/n8n-automation-health-monitor)
+
+
 **Practice/demo toolkit for learning how to monitor and maintain n8n workflows.**
 Modeled on the type of work described in a real **$1,000 fixed-price Upwork posting**
 ("Automation Partner for n8n and AI Workflows") — a long-term partnership where a
